@@ -1,0 +1,31 @@
+Here we are create the endpoint of makaing any posts and list all posts 
+
+get all the posts  (post request)
+and show all the post (get request)     
+
+
+for stroing all the posts that we use a local storage system
+
+it is basically a object that has a unique id
+
+{
+   "73g73sc":{
+        "postId" : "73g73sj",
+        "title" : "this is a post 1"
+   },
+
+   "74g73nc":{
+        "postId" : "74g73nc",
+        "title" : "this is a post 2"
+   },
+   "75b54bc":{
+        "postId" : "75b54bc",
+        "title" : "this is a post 3"
+   },
+   "66g57cc":{
+        "postId" : "66g57cc",
+        "title" : "this is a post 4"
+   },
+
+
+}
